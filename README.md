@@ -1,7 +1,8 @@
 # JAIT-Object-Detection-and-Majority-Voting-of-Bounding-Boxes
 This github will provide the supplementary files in the article "Identification and Classification of Diseases Based on Object Detection and Majority Voting of Bounding Boxes" published in Journal of Advances in Information Technology (JAIT).
 
-Abstract 
+Abstract
+
 The intelligence identification and classification of diseases could assist in the early diagnosis and treatment of diseases. With deep learning models, object detection has been applied for real-time detection of plant and human diseases, including apple leaf diseases and skin diseases. However, multiple bounding boxes of lesions can be identified in the same image without advantageously summarizing the information of bounding boxes for classifying a disease image. In this work, a new approach that integrates object detection with Majority Voting of Bounding boxes (MVB) is proposed for the classification of 1,500 images of three common apple leaf diseases and three well-known skin diseases. With MVB, Fast-Region-based Convolutional Neural Network (Fast-RCNN), Faster-RCNN, and YOLOv5 are selected to implement the proposed models. Consequently, Fast-RCNN and Faster-RCNN with MVB outperform the modern deep learning models (EfficientNetB7, RestNet152V2, VGG19, and MobileNetV2) with an accuracy of more than 99% in the classification of apple leaf diseases. Furthermore, Faster-RCNN and YOLOv5 with MVB possess the highest accuracy of 87% in the classification of skin diseases, when compared to the common and recently developed classification models. This research indicates that the proposed approach provides an effective way to identify lesions and classify disease images based on MVB, which can efficiently take advantage of information of bounding boxes for image classification. 
 
 There are 2 supplementary files. 
